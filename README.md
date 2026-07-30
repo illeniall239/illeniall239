@@ -49,11 +49,3 @@ I build and ship production-grade GenAI systems — from LLM-powered application
 </picture>
 
 </div>
-
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=illeniall239&hide_border=true" alt="GitHub Streak" height="165"/>
-
-</div>
