@@ -34,8 +34,6 @@ I build and ship production-grade GenAI systems — from LLM-powered application
 
 </div>
 
-## Featured Projects
-
 <!-- TODO: add featured projects here -->
 
 ## GitHub Activity
