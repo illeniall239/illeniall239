@@ -20,7 +20,7 @@ A few things I care about:
 
 - **Local first.** Many of my projects run on your own machine with local models, because your data shouldn't have to leave it.
 - **Shipping, not demos.** Getting an LLM to do something cool once is easy. Making it reliable enough to hand to someone else is the part I enjoy.
-- **Keeping people in charge.** AI should make your decisions easier, not make them for you. That's the whole idea behind [naqsha](https://github.com/illeniall239/naqsha).
+- **Keeping people in charge.** AI should make your decisions easier, not make them for you.
 
 Right now I'm deep in RAG pipelines, agentic workflows, and seeing how far small local models can go.
 
