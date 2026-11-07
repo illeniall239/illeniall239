@@ -26,6 +26,10 @@ I build and ship production-grade GenAI systems, from LLM-powered applications t
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -35,7 +39,14 @@ I build and ship production-grade GenAI systems, from LLM-powered applications t
 
 </div>
 
-<!-- TODO: add featured projects here -->
+## Featured Projects
+
+| Project | What it does |
+|---|---|
+| **[EDI](https://github.com/illeniall239/EDI)** · [Live](https://edi-gamma.vercel.app) | AI spreadsheet. Open a CSV or Excel file and filter, clean, chart or write formulas for it in plain English. Runs on your own model by default, with nothing uploaded. |
+| **[ResumeWesume](https://github.com/illeniall239/ResumeWesume)** | Agentic resume editor. The AI makes typed, validated edits to a live document that you watch land one at a time. Local-first with Ollama, cloud models optional. |
+| **[naqsha](https://github.com/illeniall239/naqsha)** | Claude Code plugin that keeps you in charge of AI coding. Claude plans with you on a local page, and no code is written until you approve. |
+| **[Bandsy](https://github.com/illeniall239/Bandsy)** · [Live](https://bandsy.vercel.app) | IELTS Academic prep across all four modules, with AI grading for Writing, a spoken examiner for Speaking, and explanations for every answer. |
 
 ## GitHub Activity
 
