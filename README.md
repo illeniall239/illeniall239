@@ -43,10 +43,10 @@ I build and ship production-grade GenAI systems, from LLM-powered applications t
 
 | Project | What it does |
 |---|---|
-| **[EDI](https://github.com/illeniall239/EDI)** · [Live](https://edi-gamma.vercel.app) | AI spreadsheet. Open a CSV or Excel file and filter, clean, chart or write formulas for it in plain English. Runs on your own model by default, with nothing uploaded. |
+| **[EDI](https://github.com/illeniall239/EDI)** | AI spreadsheet. Open a CSV or Excel file and filter, clean, chart or write formulas for it in plain English. Runs on your own model by default, with nothing uploaded. |
 | **[ResumeWesume](https://github.com/illeniall239/ResumeWesume)** | Agentic resume editor. The AI makes typed, validated edits to a live document that you watch land one at a time. Local-first with Ollama, cloud models optional. |
 | **[naqsha](https://github.com/illeniall239/naqsha)** | Claude Code plugin that keeps you in charge of AI coding. Claude plans with you on a local page, and no code is written until you approve. |
-| **[Bandsy](https://github.com/illeniall239/Bandsy)** · [Live](https://bandsy.vercel.app) | IELTS Academic prep across all four modules, with AI grading for Writing, a spoken examiner for Speaking, and explanations for every answer. |
+| **[Bandsy](https://github.com/illeniall239/Bandsy)** | IELTS Academic prep across all four modules, with AI grading for Writing, a spoken examiner for Speaking, and explanations for every answer. |
 
 ## GitHub Activity
 
