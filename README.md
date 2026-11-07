@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## About Me
 
 Hey, I'm Hamza 👋
