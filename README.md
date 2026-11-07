@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rao-muhammad-hamza/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engrmuhammadhamza2001@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raomuhammadhamza.tech)
 
 </div>
 
@@ -11,9 +12,9 @@
 
 ## About Me
 
-I build and ship production-grade GenAI systems — from LLM-powered applications to the pipelines and infrastructure that support them. I care about taking models from prototype to something reliable enough to put in front of real users.
+I build and ship production-grade GenAI systems, from LLM-powered applications to the pipelines and infrastructure that support them. I care about taking models from prototype to something reliable enough to put in front of real users.
 
-- Currently focused on **GenAI application engineering** — RAG pipelines, LLM orchestration, and agentic workflows
+- Currently focused on **GenAI application engineering**: RAG pipelines, LLM orchestration, and agentic workflows
 - Comfortable across the stack, from model integration down to the application layer
 - Always exploring new tools in the fast-moving LLM/AI ecosystem
 
